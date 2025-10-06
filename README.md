@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a computer science freshman at Purdue University
+I am a computer science sophomore at Purdue University
 <!--
 **SavvyProp/SavvyProp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
