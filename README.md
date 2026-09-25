@@ -9,6 +9,8 @@ A flexible humanoid full body controller is augmented with a low level model bas
 #### Fully Optical Multilayer Neural Network for Controlling Dynamic Visuomotor System
 Optical Neural Networks promises accurate, energy efficient, and high frequency method of computing. As such, Optical Neural Networks have emerged as a promising replacement for outscaling existing silicon processors for AI inference. Dynamic visuomotor control systems, with visual inputs and requirements for high frequency control, present an intriguing application for optical neural networks. Currently working on research developing a free space all-optical multi-layer neural network for controlling a nonlinear cart and pendulum (with swing up) from input images only.
 
+![Demo](optical_cart.gif)
+
 ### Resume
 
 <!--
