@@ -11,6 +11,9 @@ Sim to Sim result illustrating ground reaction force reasoning:
 
 Real world experiment:
 
+[Paper]https://arxiv.org/abs/2603.06775
+[Open Source Code]https://github.com/purdue-tracelab/hybrid_mimic
+
 #### (Equal Contributor, First Author) Fully Optical Multilayer Neural Network for Controlling Dynamic Visuomotor System
 Optical Neural Networks promises accurate, energy efficient, and high frequency method of computing. As such, Optical Neural Networks have emerged as a promising replacement for outscaling existing silicon processors for AI inference. Dynamic visuomotor control systems, with visual inputs and requirements for high frequency control, present an intriguing application for optical neural networks. Currently working on research developing a free space all-optical multi-layer neural network for controlling a nonlinear cart and pendulum (with swing up) from input images only.
 
