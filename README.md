@@ -10,6 +10,7 @@ Sim to Sim result illustrating ground reaction force reasoning:
 ![Sim to Sim Result](hybridmimic_sim2sim.gif)
 
 Real world experiment:
+![Sim to Real Result](hybridmimic_sim2real.gif)
 
 [Paper]https://arxiv.org/abs/2603.06775
 [Open Source Code]https://github.com/purdue-tracelab/hybrid_mimic
