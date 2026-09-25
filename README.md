@@ -1,5 +1,10 @@
 ## Hi there 👋
-I am a electrical engineering and computer science junior at Purdue University
+I am a Electrical Engineering and Computer Science junior at Purdue University. My interests are in develop AI capable of reasoning practically about real world environments. . I am expected to graduate Spring 2028.
+
+### Research Work
+
+1) HybridMimic: Hybrid RL-Centroidal Control for Humanoid Motion Mimicking
+
 <!--
 **SavvyProp/SavvyProp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
