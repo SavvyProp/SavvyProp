@@ -20,7 +20,7 @@ Optical Neural Networks promises accurate, energy efficient, and high frequency 
 ![Demo](optical_cart.gif)
 
 ### Resume
-
+[Resume](tay3_main_resume.docx.pdf)
 <!--
 **SavvyProp/SavvyProp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
